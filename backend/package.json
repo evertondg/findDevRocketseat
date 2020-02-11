@@ -5,13 +5,11 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.8.11"
+    "mongoose": "^5.8.11",
+    "axios": "^0.19.2"
   },
   "scripts": {
     "dev": "nodemon src/index.js"
-  },
-  "dependencies": {
-    "axios": "^0.19.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
